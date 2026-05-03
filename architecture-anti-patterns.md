@@ -1,7 +1,7 @@
-# Ved Architectural Anti-Patterns
+# Lexum Architectural Anti-Patterns
 
 This document defines patterns and practices that are explicitly discouraged
-or disallowed in the design and implementation of Ved.
+or disallowed in the design and implementation of Lexum.
 
 These anti-patterns exist to protect determinism, clarity, and long-term
 system reliability.
@@ -331,7 +331,7 @@ The system should detect and surface divergence patterns.
 
 ### Description
 
-Using Ved to implement application-level functionality.
+Using Lexum to implement application-level functionality.
 
 ### Why This Is a Problem
 
@@ -341,18 +341,18 @@ Using Ved to implement application-level functionality.
 
 ### Examples
 
-- embedding business workflows in Ved domains
-- using Ved for request-response logic
+- embedding business workflows in Lexum domains
+- using Lexum for request-response logic
 
 ### Guideline
 
-Ved is for control-plane orchestration, not application logic.
+Lexum is for control-plane orchestration, not application logic.
 
 ---
 
 ## Closing Note
 
-These anti-patterns define boundaries that protect Ved’s design.
+These anti-patterns define boundaries that protect Ved's design.
 
 Violations may not always be immediately harmful, but they introduce long-term
 instability and complexity.

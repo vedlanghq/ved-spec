@@ -1,6 +1,6 @@
 # Safety Guarantees
 
-Ved prioritizes:
+Lexum prioritizes:
 
 - execution isolation
 - authority enforcement

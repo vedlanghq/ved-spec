@@ -1,6 +1,6 @@
 # Authority Model
 
-Ved encodes operational boundaries as language constructs.
+Lexum encodes operational boundaries as language constructs.
 
 Hierarchy example:
 

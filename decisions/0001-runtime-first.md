@@ -2,7 +2,7 @@
 
 ## Context
 
-Ved requires a deterministic execution model.
+Lexum requires a deterministic execution model.
 
 ## Decision
 

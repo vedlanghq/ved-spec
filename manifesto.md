@@ -1,9 +1,9 @@
-# Ved Manifesto
+# Lexum Manifesto
 
 Software systems increasingly operate as continuously evolving environments
 rather than discrete programs.
 
-Ved is a programming language designed for describing how such environments
+Lexum is a programming language designed for describing how such environments
 should behave over time.
 
 It emphasizes:
@@ -14,7 +14,7 @@ It emphasizes:
 - explicit authority boundaries
 - reproducible orchestration behaviour
 
-Ved does not aim to replace application programming languages.
+Lexum does not aim to replace application programming languages.
 
 Instead, it focuses on governing the behaviour of distributed systems in a
 predictable and analyzable manner.

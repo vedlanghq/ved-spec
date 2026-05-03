@@ -1,6 +1,6 @@
 # Compiler Overview
 
-Compiler transforms Ved source into executable bundles.
+Compiler transforms Lexum source into executable bundles.
 
 Stages:
 

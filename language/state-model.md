@@ -1,6 +1,6 @@
 # State Model
 
-Ved state is:
+Lexum state is:
 
 - persistent
 - versionable

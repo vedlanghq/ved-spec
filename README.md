@@ -1,9 +1,9 @@
-# Ved Specification
+# Lexum Specification
 
 This repository contains the formal design and architectural specifications
-for the Ved programming language.
+for the Lexum programming language.
 
-Ved is a deterministic control-plane programming language for building
+Lexum is a deterministic control-plane programming language for building
 reliable long-running distributed systems.
 
 ## Purpose
@@ -16,7 +16,7 @@ This repository defines:
 - system guarantees
 - design principles and constraints
 
-It is the source of truth for all Ved design decisions.
+It is the source of truth for all Lexum design decisions.
 
 ## Structure
 
@@ -29,7 +29,7 @@ It is the source of truth for all Ved design decisions.
 
 ## Status
 
-Ved is in early design and prototyping stage.
+Lexum is in early design and prototyping stage.
 Specifications will evolve as implementation progresses.
 
 ## Contribution

@@ -1,6 +1,6 @@
 # Type System Overview
 
-Ved uses a statically analyzable type system.
+Lexum uses a statically analyzable type system.
 
 Goals of the type system:
 

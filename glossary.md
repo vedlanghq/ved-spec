@@ -1,4 +1,4 @@
-# Ved Glossary
+# Lexum Glossary
 
 ## Domain
 

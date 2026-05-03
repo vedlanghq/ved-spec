@@ -1,6 +1,6 @@
 # Syntax Overview
 
-Ved syntax is designed to be:
+Lexum syntax is designed to be:
 
 - explicit
 - minimal
@@ -16,7 +16,7 @@ Ved syntax is designed to be:
 
 ## Example
 
-```ved
+```Lexum
 domain WorkerPool {
   state {
     desired: int

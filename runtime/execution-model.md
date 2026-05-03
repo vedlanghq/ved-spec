@@ -1,6 +1,6 @@
 # Execution Model
 
-Ved runtime operates as a deterministic control loop.
+Lexum runtime operates as a deterministic control loop.
 
 ## Core Cycle
 

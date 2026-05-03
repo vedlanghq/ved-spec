@@ -1,6 +1,6 @@
 # Language Semantics
 
-Ved programs describe evolving system state.
+Lexum programs describe evolving system state.
 
 Execution semantics are defined in terms of:
 

@@ -1,6 +1,6 @@
 # Convergence Guarantee
 
-Ved aims to ensure systems move toward goal satisfaction.
+Lexum aims to ensure systems move toward goal satisfaction.
 
 Guarantee scope:
 

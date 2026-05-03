@@ -1,6 +1,6 @@
 # Determinism Guarantee
 
-Ved guarantees that execution is reproducible.
+Lexum guarantees that execution is reproducible.
 
 ## Definition
 

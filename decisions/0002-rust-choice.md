@@ -2,7 +2,7 @@
 
 ## Context
 
-Ved runtime requires:
+Lexum runtime requires:
 
 - memory safety
 - performance predictability
