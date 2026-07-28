@@ -352,7 +352,7 @@ Lexum is for control-plane orchestration, not application logic.
 
 ## Closing Note
 
-These anti-patterns define boundaries that protect Ved's design.
+These anti-patterns define boundaries that protect Lexum's design.
 
 Violations may not always be immediately harmful, but they introduce long-term
 instability and complexity.
